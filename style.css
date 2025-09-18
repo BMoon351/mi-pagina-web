@@ -1,0 +1,18 @@
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+.card-body {
+    height: 150px;
+}
+.gallery-item {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+body {
+    transition: background 0.2s ease-out;
+    min-height: 100vh;
+    margin: 0;
+}
